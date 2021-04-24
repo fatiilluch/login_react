@@ -1,0 +1,13 @@
+.title-container {
+    color: mediumpurple;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-label {
+
+}
